@@ -1,4 +1,4 @@
-let reloj = document.getElementById("el-reloj");
+let reloj = document.getElementById("reloj");
 
 function llamaAlReloj() {
     let time = new Date()
